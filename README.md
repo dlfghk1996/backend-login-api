@@ -10,6 +10,7 @@ Front가 있다는 가정하에 로그인 했을 시,  API로 Backend에서 통�
     - Java 17
 2. 데이터베이스 설정
     - H2
+    - Redis
     - JPA
     - QueryDSL
 3. 라이브러리
