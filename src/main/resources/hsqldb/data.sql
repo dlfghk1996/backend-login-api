@@ -1,0 +1,2 @@
+INSERT INTO users
+VALUES (1, '홍길동', 'testId', '$2a$10$rNZUTAiCUem8Ypfq8kulVedx732tajSkG13i18f7KPT8IyKzNLpqW','ACTIVATED','2024-05-26 00:00:00');
