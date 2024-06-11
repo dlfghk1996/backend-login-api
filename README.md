@@ -1,7 +1,5 @@
-## [CLROBUR] 수행 과제
-###  Spring Boot 백엔드 구현 및 코드 브리핑
-Front가 있다는 가정하에 로그인 했을 시,  API로 Backend에서 통신할 수 있도록 Spring Boot 웹 서버 구현
 
+###  Login API Flow 
 
 ### A)  프로젝트 설정
 1. 프로젝트 설정
